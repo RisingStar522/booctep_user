@@ -1,0 +1,5 @@
+pip install django-social-share
+pip install textblob
+pip install django-paypal
+pip install image
+pip install img2pdf
